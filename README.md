@@ -1,23 +1,31 @@
-# Banking Credit Risk Analytics
+## Business Problem
  
-## Project Overview
+Banks face significant financial risk when lending to customers with a high probability of default.
  
-This project demonstrates an end-to-end credit risk analytics solution for banking institutions.
+## Objectives
  
-The objective is to identify high-risk borrowers, reduce loan defaults, and improve lending decisions using statistical analysis and predictive modeling.
+- Predict loan defaults
+- Improve credit risk assessment
+- Reduce non-performing assets
+- Improve lending decisions
  
-## Technologies
+## Dataset
  
-- SAS
-- SQL
-- Python
-- Azure AI
-- Power BI
+Sample banking customer loan portfolio dataset.
  
-## Domain
+## Methodology
  
-Banking, Financial Services and Insurance (BFSI)
+1. Data Collection
+2. Data Quality Checks
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Development
+6. Risk Segmentation
+7. Model Validation
  
-## Author
+## Expected Output
  
-Umesh Zure
+- Risk Score
+- Probability of Default
+- Risk Category
+- Portfolio Risk Dashboard
