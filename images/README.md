@@ -1,1 +1,3 @@
-
+# Images
+ 
+This folder will contain architecture diagrams and screenshots.
